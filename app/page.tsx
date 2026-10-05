@@ -58,7 +58,7 @@ export default function Home() {
       <section id="story" className="story section">
         <div className="container story-grid">
           <div className="story-heading"><span className="eyebrow">Câu chuyện HaoHaoCha</span><h2>Vị ngon không cần<br />đánh đổi <em>sự nhẹ lành.</em></h2></div>
-          <div className="story-copy"><p className="lead">HaoHaoCha bắt đầu từ một mong muốn rất thật: để người trẻ được uống món mình thích mà không phải đánh đổi giữa sở thích và sức khỏe.</p><p>Chúng mình hiểu cảm giác muốn thưởng thức một ly trà sữa sau giờ học, giờ làm, nhưng lại ngần ngại vì vị quá ngọt, quá béo hoặc thiếu thông tin rõ ràng. Vì thế, HaoHaoCha chọn lá trà tươi, sữa mềm mượt và mật ong dịu ngọt; cân chỉnh mỗi công thức để vị trà vẫn rõ, hương sữa vừa vặn và cảm giác sau cùng thật nhẹ nhàng.</p><div className="manifest"><strong>HAO</strong><span>Hài hòa giữa vị ngon và lựa chọn lành mạnh</span><strong>CHA</strong><span>Chắt lọc nguyên liệu, giữ trọn hương trà</span></div></div>
+          <div className="story-copy"><p className="lead">HaoHaoCha bắt đầu từ một mong muốn rất thật: để người trẻ được uống món mình thích mà không phải đánh đổi giữa sở thích và sức khỏe.</p><p>Chúng mình hiểu cảm giác muốn thưởng thức một ly trà sữa sau giờ học, giờ làm, nhưng lại ngần ngại vì vị quá ngọt, quá béo hoặc thiếu thông tin rõ ràng. Vì thế, HaoHaoCha chọn lá trà tươi, sữa mềm mượt và mật ong dịu ngọt; cân chỉnh mỗi công thức để vị trà vẫn rõ, hương sữa vừa vặn và cảm giác sau cùng thật nhẹ nhàng.</p></div>
         </div>
       </section>
 
