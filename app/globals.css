@@ -95,3 +95,6 @@ body{background:linear-gradient(180deg,#fffaf2 0%,#f8f0e3 100%)}
 @media (max-width:900px){.story-heading{position:static}.story-copy{border-left:0;padding-left:0}.insight-grid article:nth-child(2){transform:none}.product-card:nth-child(2){margin-top:0}.quote .container::before,.quote .container::after{display:none}}
 @media (max-width:600px){.product-card{border-radius:110px 110px 16px 16px}.product-image{border-radius:110px 110px 0 0}.feedback-card,.insight-quote{border-radius:6px 28px 6px 28px}}
 @media (prefers-reduced-motion:reduce){.button,.nav-cta,.feedback-button,.insight-grid article,.product-card,.ingredient-list article{transition:none}.insight-grid article:hover,.insight-grid article:nth-child(2):hover,.product-card:hover{transform:none}}
+
+/* Keep the social-links column visible at every viewport size. */
+@media (max-width:900px){.footer-top{grid-template-columns:repeat(3,1fr)}.footer-top>div:last-child{display:block}.footer-brand{grid-column:1/-1}}
