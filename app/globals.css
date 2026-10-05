@@ -45,7 +45,7 @@ html{scroll-padding-top:92px}
 @media (max-width:900px){.feedback-card{grid-template-columns:1fr;gap:34px;padding:60px}}
 @media (max-width:600px){.feedback-section{padding-bottom:70px}.feedback-card{padding:44px 28px}.feedback-button{width:100%}}
 
-/* Softer, more organic Haocha art direction */
+/* Softer, more organic HaoHaoCha art direction */
 body{background:linear-gradient(180deg,#fffaf2 0%,#f8f0e3 100%)}
 .section{position:relative}
 .eyebrow{display:flex;align-items:center;gap:12px}
